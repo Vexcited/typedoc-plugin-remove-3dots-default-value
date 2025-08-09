@@ -33,6 +33,9 @@
   "files": [
     "dist"
   ],
+  "scripts": {
+    "build": "tsup"
+  },
   "dependencies": {
     "typedoc": "^0.28.9"
   },
