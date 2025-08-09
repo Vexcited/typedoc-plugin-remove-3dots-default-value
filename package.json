@@ -37,6 +37,7 @@
     "typedoc": "^0.28.9"
   },
   "devDependencies": {
+    "@types/bun": "^1.2.19",
     "@vexcited/eslint-config": "^0.1.1",
     "eslint": "^9.33.0",
     "jiti": "^2.5.1",
