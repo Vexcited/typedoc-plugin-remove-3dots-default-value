@@ -1,6 +1,6 @@
 {
   "name": "typedoc-plugin-remove-3dots-default-value",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "A TypeDoc plugin to remove defaultValue of properties that are equal to ..., a dead simple cleanup plugin.",
   "author": "Mikkel ALMONTE--RINGAUD <contact@vexcited.com>",
   "license": "MIT",
